@@ -1,1 +1,4 @@
-# vinharia-agnello
+# Vinheria Agnello – Sistema Básico de Gerenciamento de Vinhos
+
+## Descrição
+Sistema básico para cadastro e análise de vinhos da Vinheria Agnello. O usuário informa nome, tipo, safra e quantidade em estoque por meio de `prompt()`, recebe avisos com `alert()` e visualiza os detalhes no `console.log()`.
