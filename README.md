@@ -12,3 +12,10 @@ Sistema básico para cadastro e análise de vinhos da Vinheria Agnello. O usuár
 
 ## Link do projeto
 GitHub Pages: https://felipegoulartpereira.github.io/vinharia-agnello/
+
+## Estrutura
+- `index.html` – página principal com apresentação do projeto
+- `src/css/style.css` – estilos da página
+- `src/css/js/script.js` – código JavaScript do sistema
+- `src/css/pages/` – páginas de história, produtos, equipe e contato
+- `src/css/assets/imgs/` – imagens do site
