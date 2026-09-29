@@ -10,3 +10,13 @@ var quantidade = Number(prompt("Digite a quantidade em estoque:"));
 
 // ---------- Confirmação do cadastro ----------
 alert("Cadastro realizado! Veja os detalhes no console.");
+
+// ---------- Exibição dos detalhes no console ----------
+alert("A seguir, veja os detalhes do vinho no console.");
+
+console.log("===== VINHERIA AGNELLO =====");
+console.log("Nome: " + nomeVinho);
+console.log("Tipo: " + tipoVinho);
+console.log("Safra: " + safra);
+console.log("Quantidade em estoque: " + quantidade + " garrafas");
+console.log("============================");
