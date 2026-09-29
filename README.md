@@ -9,8 +9,7 @@ Sistema básico para cadastro e análise de vinhos da Vinheria Agnello. O usuár
 - Nickolas Illiadis
 - Samuael Sá
 
-## Link do projeto
-GitHub Pages: https://felipegoulartpereira.github.io/vinharia-agnello/
+
 
 ## Estrutura
 - `index.html` – página principal com apresentação do projeto
