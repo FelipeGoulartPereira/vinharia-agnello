@@ -20,3 +20,15 @@ console.log("Tipo: " + tipoVinho);
 console.log("Safra: " + safra);
 console.log("Quantidade em estoque: " + quantidade + " garrafas");
 console.log("============================");
+
+// ---------- Análise com operadores ----------
+var anoAtual = 2026;
+var idadeVinho = anoAtual - safra;       // operador aritmético
+var estoqueBaixo = quantidade < 5;       // operador relacional
+
+alert("A seguir, veja a análise do vinho no console.");
+
+console.log("===== ANÁLISE =====");
+console.log("Idade do vinho: " + idadeVinho + " anos");
+console.log("Estoque baixo (menos de 5 garrafas)? " + estoqueBaixo);
+console.log("===================");
